@@ -1,0 +1,15 @@
+Date: 31/5/2026
+Time: 13:16
+Phone Number: +9510966323
+Message: Hello! This is sent from Python!
+--------------------
+Date: 31/5/2026
+Time: 13:18
+Phone Number: +919510966323
+Message: Hello! This is sent from Python!
+--------------------
+Date: 31/5/2026
+Time: 13:23
+Phone Number: +919510966323
+Message: Test from Python!
+--------------------
